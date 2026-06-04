@@ -157,13 +157,7 @@ $ mvn spring-boot:run
 ```
 
 ---
-### Docker Image Location
 
-```
-https://hub.docker.com/repository/docker/noyandocker/ratelimiter/general
-```
-
----
 ### Screenshots
 
 <details>
@@ -185,7 +179,3 @@ https://hub.docker.com/repository/docker/noyandocker/ratelimiter/general
     <p> Figure 8 </p>
     <img src ="screenshots/docker2.PNG">
 </details>
-
-### Contributors
-
-- [Sercan Noyan Germiyanoğlu](https://github.com/Rapter1990)
